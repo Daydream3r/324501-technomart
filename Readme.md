@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Dima Spiridonov](https://up.htmlacademy.ru/htmlcss/17/user/324501).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Верхотуров](https://up.htmlacademy.ru/htmlcss/17/user/56756).
 
 ---
 
